@@ -54,3 +54,4 @@ console.log(null ?? 'hellooo')//hello
 console.log(null || 'hellooo')//hello
 console.log((false || null) ?? 'hellooo')//hello
 console.log(null ?? (false || 'hellooo'))//hello
+console.log("dkfjdlsf");
